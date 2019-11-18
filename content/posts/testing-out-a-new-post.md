@@ -3,6 +3,7 @@ title: Testing out a new post
 subtitle: This'll be a simple post
 category:
   - Third Party Integrations
+  - About Awake
 author: John Gorecki
 date: 2019-11-13T20:54:40.266Z
 featureImage: /uploads/zjicw2ly2ws31.jpg
